@@ -102,7 +102,7 @@
 #### 5. 웹 서비스 구현
 
 - 웹 페이지 기능 설명
-- 최종 프로젝트.mp4 파일에 영상 시연 파일 참고
+- 최종 프로젝트.mp4 영상 시연 파일 참고
 
 ​	![image](https://user-images.githubusercontent.com/98143525/157227241-d5e91cac-d7ab-4e22-a444-6f9eb4331bd8.png)
 
